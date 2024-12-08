@@ -17,9 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/suranjandey/"> <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
-
-<br><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suranjan-dey" alt="suranjan-dey" /></a> </p>
+    
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suranjan-dey&label=Profile%20views&color=13cd0a&style=flat" alt="suranjan-dey" /> </p>
