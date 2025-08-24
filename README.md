@@ -2,7 +2,7 @@
 
 <p align="center"><b>
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=228B22&width=400&height=30&lines=Hello👋+I'm+Suranjan+Dey...;System+Engineer;Learning+Data+Engineering...;Nice+To+Meet+You...;Thanks+For+Visiting+My+Profile.&center=true"></a></b></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=228B22&width=400&height=30&lines=Hello👋+I'm+Suranjan+Dey...;System+Administrator;Learning+Data+Engineering...;Nice+To+Meet+You...;Thanks+For+Visiting+My+Profile.&center=true"></a></b></p>
     
 ### Technical Skills...
 
@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/IBM%20iSeries%20-%20?style=flat)
 ![Static Badge](https://img.shields.io/badge/MySQL%20-%20?style=flat&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/MS%20SQL%20Server%20-%20?style=flat&color=E54040)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Azure%20-%20?style=flat&color=%23007FFF)
 ![Static Badge](https://img.shields.io/badge/Azure%20Data%20Factory%20-%20?style=flat&color=%230080FF)
 ![Static Badge](https://img.shields.io/badge/Azure%20Synapse%20Analytics%20-%20?style=flat&color=%230078D4)
 ![Static Badge](https://img.shields.io/badge/Databricks%20-%20?style=flat&color=%23FF3621)
