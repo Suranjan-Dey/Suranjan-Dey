@@ -23,9 +23,9 @@
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20?style=flat&color=%230076B8)
 
 <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/suranjandey/"> <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
-    
-<br>
+
+<a href="https://www.linkedin.com/in/suranjandey/">![Static Badge](https://img.shields.io/badge/Linkedin%20-%20?style=flat&color=%230077B5)</a>
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suranjan-dey&label=Profile%20views&color=228B22&style=flat" alt="suranjan-dey" /> </p>
