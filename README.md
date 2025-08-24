@@ -4,7 +4,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=228B22&width=400&height=30&lines=Hello👋+I'm+Suranjan+Dey...;System+Administrator;Learning+Data+Engineering...;Nice+To+Meet+You...;Thanks+For+Visiting+My+Profile.&center=true"></a></b></p>
     
-### Technical Skills...
+### Technical Skills:
 
 ![Static Badge](https://img.shields.io/badge/Python%20-%20?style=flat&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/SQL%20-%20?style=flat&color=FFFFFF)
@@ -21,6 +21,12 @@
 ![Static Badge](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20-%20?style=flat&color=%23008AD7)
 ![Static Badge](https://img.shields.io/badge/Linux%20-%20?style=flat&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20?style=flat&color=%230076B8)
+
+<h3 align="left">Certifications:</h3>
+
+✔️ Microsoft Certified Azure Fundamentals (AZ-900) <br>
+✔️ Microsoft Certified Azure Data Fundamentals (DP-900) <br>
+✔️ Databricks Accredited Databricks Fundamentals <br>
 
 <h3 align="left">Connect with me:</h3>
 
