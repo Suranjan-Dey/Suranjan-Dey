@@ -6,14 +6,15 @@
     
 ### Technical Skills...
 
-<p align="center">
-  <!-- Icons source  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">   
-  <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/azure.svg" alt="aws" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
-</p>
+![Static Badge](https://img.shields.io/badge/Python%20-%20?style=flat&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/SQL%20-%20?style=flat&color=FFFFFF)
+![Static Badge](https://img.shields.io/badge/MySQL%20-%20?style=flat&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/MS%20SQL%20Server%20-%20?style=flat&color=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Azure%20Data%20Factory%20-%20?style=flat&color=%230080FF)
+![Static Badge](https://img.shields.io/badge/Azure%20Synapse%20Analytics%20-%20?style=flat&color=%230078D4)
+![Static Badge](https://img.shields.io/badge/Databricks%20-%20?style=flat&color=%23FF3621)
+![Static Badge](https://img.shields.io/badge/PySpark%20-%20?style=flat&color=FFFFFF)
+![Static Badge](https://img.shields.io/badge/SparkSQL%20-%20?style=flat&color=FFFFFF)
 
 <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/suranjandey/"> <img src="https://github.com/Suranjan-Dey/Suranjan-Dey/blob/main/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
