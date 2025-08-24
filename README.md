@@ -18,7 +18,6 @@
 ![Static Badge](https://img.shields.io/badge/SparkSQL%20-%20?style=flat&color=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/ETL%2FELT%20-%20?style=flat&color=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Azure%20Data%20Lake%20Storage%20-%20?style=flat&color=%23008AD7)
-
 ![Static Badge](https://img.shields.io/badge/Linux%20-%20?style=flat&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20?style=flat&color=%230076B8)
 
